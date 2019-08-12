@@ -1,4 +1,4 @@
 #defining function    
-def introduction
+def introduction(name)
     
 end
